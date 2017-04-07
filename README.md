@@ -1,2 +1,4 @@
 # wpHpot
-wpHpot (beta)
+
+
+WordPress HoneyPot (beta)
